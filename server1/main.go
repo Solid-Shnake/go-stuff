@@ -1,4 +1,5 @@
 // server1 is a minimal "echo" server
+// attempting to display gif image on web page
 package main
 
 import (

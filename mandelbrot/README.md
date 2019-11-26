@@ -2,5 +2,5 @@
 Uses complex numbers to create a Mandelbrot fractal image
 
 To create the image run the following commands
-`go build`
+`go build`  
 `./mandlebrot out>mandelbrot.png`

@@ -27,7 +27,7 @@ func lissajous(out io.Writer) {
 		cycles  = 5     // number of x oscillator revolutions
 		res     = 0.001 // angular resolution
 		size    = 100   // image canvas covers [-size .. +size]
-		nframes = 64    // number of animation franes
+		nframes = 64    // number of animation frames
 		delay   = 8     // delay between frames in 10ms units
 	)
 	freq := rand.Float64() * 3.0 // relative frequency of y oscillator
